@@ -9,9 +9,9 @@ Soy un estudiante de Ingeniería Informática interesado en programación de baj
 
 ## 🛠 Tech Stack
 
-- Lenguajes de programación: Assembly, C, C++, Rust, Bash
-- Herramientas: Valgrind, Git, Linux
-- Areas: Sistemas embebidos, Arquitectura de computadores, RISC-V, diseño de CPUs
+- **Lenguajes de programación**: Assembly, C, C++, Rust, Bash
+- **Herramientas**: Valgrind, Git, Linux
+- **Areas**: Sistemas embebidos, Arquitectura de computadores, RISC-V, diseño de CPUs
 
 ## 📫 Visítame en:
 - [LinkedIn](https://linkedin.com/in/hugo-mato-cancela)
