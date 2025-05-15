@@ -9,8 +9,9 @@ Soy un estudiante de Ingeniería Informática interesado en programación de baj
 
 ## 🛠 Tech Stack
 
-- **Lenguajes de programación**: Assembly, C, C++, Rust, Bash
-- **Herramientas**: Valgrind, Git, Linux
+- **Lenguajes de programación**: Assembly, C, C++, Latex, Rust, VHDL/Verilog
+- **Hardware**: RISC-V, System-C, Simulators
+- **Herramientas**: Valgrind, Git, Linux, Bash, Make
 - **Areas**: Sistemas embebidos, Arquitectura de computadores, RISC-V, diseño de CPUs
 
 ## 📫 Visítame en:
